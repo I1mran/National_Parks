@@ -23,5 +23,7 @@ US National Parks Data.
 ### Points
 Points, Marker Data, Shapefile, GeoJSON
 
+###https://raw.githubusercontent.com/kwab7777/National_Parks.Geo.JSON/master/US/Points/national_parks_points.geojson
+
 ### Polygons
 Polygons Data, Shapefile, GeoJSON
